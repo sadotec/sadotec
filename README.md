@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sadotec
+- 👋 Hi, I’m SADO aka @sadotec
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning an ethical hacking
 - 💞️ I’m looking to collaborate on cybersecurity
